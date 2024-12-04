@@ -8,7 +8,7 @@ namespace Tyuiu.DmitrievLR.Sprint2.Task0.V21.Lib
         {
             // Operations: ==, !=, <, >, <=, >=
             bool[] result = new bool[]
-            {
+            {  
             x == y, 
             y != y, 
             x < y,    

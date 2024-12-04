@@ -29,7 +29,7 @@ namespace Tyuiu.DmitrievLR.Sprint2.Task0.V21
             Console.WriteLine("Введите значение y: ");
             int y = Convert.ToInt32(Console.ReadLine());
 
-              
+                  
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("*                                                                         *");
             Console.WriteLine("***************************************************************************");
