@@ -26,7 +26,7 @@ namespace Tyuiu.DmitrievLR.Sprint2.Task5.V7
             Console.WriteLine("Введите год: ");
             int year = int.Parse(Console.ReadLine());
 
-            // Ввод количества месяцев
+            // Ввод количества месяцев 
             Console.WriteLine("Введите количество месяцев: ");
             int months = int.Parse(Console.ReadLine());
 

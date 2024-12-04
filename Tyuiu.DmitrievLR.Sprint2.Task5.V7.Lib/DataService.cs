@@ -8,7 +8,7 @@ namespace Tyuiu.DmitrievLR.Sprint2.Task5.V7.Lib
         {
             switch (n % 12)
             {
-                case 1:
+                case 0:
                     return "Январь";
                 case 1:
                     return "Февраль";
