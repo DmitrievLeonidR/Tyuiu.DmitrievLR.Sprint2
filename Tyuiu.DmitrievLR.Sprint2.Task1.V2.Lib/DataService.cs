@@ -13,7 +13,7 @@ namespace Tyuiu.DmitrievLR.Sprint2.Task1.V2.Lib
 
             // True
             result[1] = !(a == b);
-
+             
             // True
             result[2] = (a <= c) || (b > d);
 

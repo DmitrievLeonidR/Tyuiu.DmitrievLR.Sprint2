@@ -44,7 +44,7 @@ namespace Tyuiu.DmitrievLR.Sprint2.Task1.V2
             Console.WriteLine("***************************************************************************");
 
             DataService ds = new DataService();
-
+             
             var result = ds.GetLogicOperations(a,b,c,d);
             foreach (bool item in result)
             {
