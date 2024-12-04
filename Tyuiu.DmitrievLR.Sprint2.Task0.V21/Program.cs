@@ -17,7 +17,7 @@ namespace Tyuiu.DmitrievLR.Sprint2.Task0.V21
             Console.WriteLine("* УСЛОВИЕ:                                                                *"); 
             
             Console.WriteLine("* Написать программу из операций сравнений (==, !=, <, >, <=, >=, последовательность операций не должна нарушаться) *");
-
+             
             Console.WriteLine("*                                                                         *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");

@@ -11,7 +11,7 @@ namespace Tyuiu.DmitrievLR.Sprint2.Task0.V21.Lib
             {
             x == y, 
             y != y, 
-            x < y,   
+            x < y,    
             y > x, 
             x <= y,
             y >= x, 
