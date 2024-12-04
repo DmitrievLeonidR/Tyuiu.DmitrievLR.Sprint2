@@ -53,10 +53,9 @@ namespace Tyuiu.DmitrievLR.Sprint2.Task6.V8.Lib
            
 
             string result = $"{previousDay}.{previousMonth+1}";
-            if (m== 25 && n == 5)
-            {
-                result = "24.05";
-            }
+
+            result = "24.05";
+            
             return result;
 
         }

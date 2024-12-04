@@ -22,7 +22,7 @@ namespace Tyuiu.DmitrievLR.Sprint2.Task6.V8
             int month = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Введите день месяца (1-31):");
             int day = Convert.ToInt32(Console.ReadLine());
-
+             
 
             Console.WriteLine("*                                                                         *");
             Console.WriteLine("***************************************************************************");
