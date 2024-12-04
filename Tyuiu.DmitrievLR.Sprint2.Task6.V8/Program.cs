@@ -15,7 +15,7 @@ namespace Tyuiu.DmitrievLR.Sprint2.Task6.V8
             Console.WriteLine("* Выполнил: Дмитриев Леонид Романович | ИИПБ-24-1                         *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *"); 
-            
+             
             Console.WriteLine("*                                                                         *");
 
             Console.WriteLine("Введите порядковый номер месяца (1-12):");

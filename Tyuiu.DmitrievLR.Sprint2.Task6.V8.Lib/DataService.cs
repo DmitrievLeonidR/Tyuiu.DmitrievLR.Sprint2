@@ -51,7 +51,7 @@ namespace Tyuiu.DmitrievLR.Sprint2.Task6.V8.Lib
             }
 
             string result = $"{previousDay}.{previousMonth+1}";
-
+            //
             return result;
 
         }
