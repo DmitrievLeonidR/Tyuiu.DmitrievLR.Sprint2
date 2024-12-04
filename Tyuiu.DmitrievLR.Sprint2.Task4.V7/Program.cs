@@ -23,9 +23,9 @@ namespace Tyuiu.DmitrievLR.Sprint2.Task4.V7
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
 
-            Console.WriteLine("Введите значение x: ");
+            Console.WriteLine("Введите значение x: "); // 9
             int x = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Введите значение y: ");
+            Console.WriteLine("Введите значение y: "); // 4
             int y = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("***************************************************************************");
