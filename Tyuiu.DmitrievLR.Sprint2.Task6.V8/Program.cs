@@ -17,7 +17,7 @@ namespace Tyuiu.DmitrievLR.Sprint2.Task6.V8
             Console.WriteLine("* УСЛОВИЕ:                                                                *"); 
              
             Console.WriteLine("*                                                                         *");
-
+              
             Console.WriteLine("Введите порядковый номер месяца (1-12):");
             int month = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Введите день месяца (1-31):");
