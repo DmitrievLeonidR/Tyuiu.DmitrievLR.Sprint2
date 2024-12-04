@@ -9,29 +9,29 @@ namespace Tyuiu.DmitrievLR.Sprint2.Task5.V7.Lib
             switch (n % 12)
             {
                 case 0:
-                    return "Январь";
+                    return "январь";
                 case 1:
-                    return "Февраль";
+                    return "февраль";
                 case 2:
-                    return "Март";
+                    return "март";
                 case 3:
-                    return "Апрель";
+                    return "апрель";
                 case 4:
-                    return "Май";
+                    return "май";
                 case 5:
-                    return "Июнь";
+                    return "июнь";
                 case 6:
-                    return "Июль";
+                    return "июль";
                 case 7:
-                    return "Август";
+                    return "август";
                 case 8:
-                    return "Сентябрь" ;
+                    return "сентябрь" ;
                 case 9:
-                    return "Октябрь";
+                    return "октябрь";
                 case 10:
-                    return "Ноябрь";
+                    return "ноябрь";
                 case 11:
-                    return "Декабрь";
+                    return "декабрь";
                 default:
                     return "Некорректное количество месяцев";
             }
